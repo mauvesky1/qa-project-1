@@ -4,6 +4,17 @@ This repository contains the web app I have created for the QA devops fundamenta
 
 ## Contents
 
+ Project brief
+ App Design
+ CL Pipeline
+ Project Tracking
+ Risk Assessment
+ Testing
+ The App
+ Updates
+ Known Issues
+ Future Work
+
 
 ## Project Tracking
 
